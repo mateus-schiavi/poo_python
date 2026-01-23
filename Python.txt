@@ -1,0 +1,9 @@
+Python é uma linguagem de programação de alto nível, bastante popular por sua versatilidade, sendo amplamente utilizada
+no desenvolvimento de sistemas e na análise de dados.
+
+Uma de suas principais características é ser uma linguagem interpretada, o que significa que o código é lido e
+executado durante a execução do programa, por meio de um interpretador. Como outras linguagens que rodam sobre um
+sistema operacional, o Python utiliza os recursos do kernel do SO para acessar memória, processamento e dispositivos.
+
+Diferentemente de linguagens compiladas, como C e C++, que precisam ter o código traduzido previamente antes da
+execução, o Python realiza essa tradução de forma dinâmica enquanto o programa é executado.
